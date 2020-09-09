@@ -1,2 +1,2 @@
 # Practice
-Collection of short algorithm practice problems
+Questions can be found at the top of the solution files.
